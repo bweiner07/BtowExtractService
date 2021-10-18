@@ -1,0 +1,7 @@
+sender: stream-bridge
+stream-bridge:
+  destination: d
+
+botw:
+  url:
+    monster: https://botw-compendium.herokuapp.com/api/v1/category/monsters
